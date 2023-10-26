@@ -24,6 +24,9 @@ public abstract class Book {
         return protectedName;
     }
 
+
+
+
     public abstract void setProtectedName(String protectedName);
 
     public String getDefaultName() {
